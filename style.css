@@ -264,3 +264,29 @@ audio {
 .icons_items_imgs {
     width: 200px;
     margin-bottom: 30px;
+    .footer-section {
+    padding: 2em 0;
+    text-align: center;
+    background: #d89c33
+}
+
+.footer-top p {
+    font-size: 0.9em;
+    color: #fff;
+    font-weight: 400;
+}
+
+.footer-top a {
+    font-size: 1em;
+    color: #fff;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.footer-top a:hover {
+    color: #fff;
+}
+
+.footer-top a {
+    margin: 0 0.3em
+}
